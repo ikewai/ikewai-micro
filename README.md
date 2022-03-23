@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikewai/ikewai-micro.git/HEAD)
 Ike Wai Microbe Dataset process
 
 Docker
