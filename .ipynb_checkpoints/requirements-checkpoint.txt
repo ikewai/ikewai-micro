@@ -1,0 +1,5 @@
+jupyterlab 
+scipy 
+pandas 
+tapipy 
+ikewaipy
